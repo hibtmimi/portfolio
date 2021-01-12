@@ -1,3 +1,4 @@
+
 {
   "name": "personalportfolio",
   "version": "0.1.0",
@@ -26,6 +27,10 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "engines": {
+    "node": "10.17.0",
+    "npm": "6.11.3"
   },
   "description": "![ReactJS Resume Website Template](resume-screenshot-naz.png?raw=true \"ReactJS Resume Website Template\")",
   "main": "index.js",
