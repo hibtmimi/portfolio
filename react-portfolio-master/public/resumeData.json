@@ -79,16 +79,16 @@
   "portfolio": {
     "projects": [
       {
-        "title": " LiLY",
-        "category": "MARN",
-        "image": "",
-         "url": "zoom.png"
+        "title": "Sharkona",
+        "category": " Event Sharing websit using MERN technologies",
+        "image": "zoom.png",
+        "url": "https://github.com/greenfield-sharkona/sharkona_v2"
       },
       {
-        "title": "Sharkona",
-        "category": "MARN",
-        "image": "zoom.png",
-        "url": ""
+        "title": "lily",
+        "category": "Event Planing website using MERN technologies",
+        "image": "Capture.PNG",
+        "url": "https://github.com/lily-event-planner/lily"
       }
     ]
   }

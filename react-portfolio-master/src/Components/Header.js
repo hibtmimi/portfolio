@@ -35,7 +35,8 @@ class Header extends Component {
       <div className="row banner">
          <div className="banner-text">
             <h1 className="responsive-headline">I'm Hiba Tamimi.</h1>
-            <h3>I'm a Palestinian  <span> Frontend developer </span> </h3>
+            <h3>I'm a Palestinian  <span> Frontend developer </span>  </h3>
+            <h3> <span> Smash the box and create the MARVELS ! </span>  </h3>
             <hr />
             <ul className="social">
                {networks}
