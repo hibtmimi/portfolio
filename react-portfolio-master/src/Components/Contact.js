@@ -6,6 +6,7 @@ const Contact = ({ data }) => {
    const [subject, setSubject] = useState('');
    const [email, setEmail] = useState('');
    const [message, setMessage] = useState('');
+   // const [message, setMessage] = useState('');
 
    console.log(data)
 
