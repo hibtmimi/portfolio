@@ -1,0 +1,95 @@
+{
+  "main": {
+    "name": "Hiba Tamimi",
+    "occupation": "Front end developer ",
+    "description": "reactJs developer ",
+    "image": "Naz.jpg",
+    "bio": "My name is Hiba, I'm a reactJs developer. Currently I'm training at RBK.",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "hibatamimi24@gmail.com",
+    "phone": "+970 569 213 423",
+    "address": {
+      "street": "Al marj",
+      "city": "Birzeit",
+      "state": "Ramallah",
+      "zip": "31739"
+    },
+
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/heba.farhood",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/hiba-tamimi-b6511b1b1/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/hibafarhood/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/hibtmimi",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "Birzeit University - Ramallah",
+        "degree": "Bachelor's Degree, Marketing",
+        "graduated": "June 2018"
+      }
+    ],
+    "work": [
+      {
+        "company": "RBK",
+        "title": "Full stack developer",
+        "years": "Augest 2020 - Present",
+        "description": "intership"
+      }
+      
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "50%"
+      },
+   
+      {
+        "name": "Git",
+        "level": "75%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "50%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "50%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Sharkona",
+        "category": " Event Sharing websit using MERN technologies",
+        "image": "zoom.png",
+        "url": "https://github.com/greenfield-sharkona/sharkona_v2"
+      },
+      {
+        "title": "lily",
+        "category": "Event Planing website using MERN technologies",
+        "image": "Capture.PNG",
+        "url": "https://github.com/lily-event-planner/lily"
+      }
+    ]
+  }
+}
